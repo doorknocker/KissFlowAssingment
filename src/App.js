@@ -1,9 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
 import React from "react"
 import Message from './components/presentational/Message';
 import {format} from "date-fns";
 
+import './App.css';
 
 function App() {
   const userName = "Harshit Chauhan";
