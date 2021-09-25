@@ -1,0 +1,12 @@
+.message{
+    font-size: 12px;
+}
+
+.author{
+    display: flex;
+}
+
+.author > div:nth-child(1){
+    font-weight: bold;
+    margin-right: 20px;
+}
